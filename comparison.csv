@@ -1,7 +1,7 @@
-Provider,Name,Fair Usage,Download Speed,Upload Speed,Price,Price per GB,Price per Mbps (Download),Price per Mbps (Upload)
+Provider,Name,Fair Usage (GB),Download Speed (Mbps),Upload Speed (Mbps),Price,Price per GB,Price per Mbps (Download),Price per Mbps (Upload)
 Ooredoo,1G,3072,1000,100,7409.4,2.41,7.41,74.09
 Dhiraagu,1G,3000,1000,100,7409.4,2.47,7.41,74.09
-ROL,100M Plus,1000,100,100,3074,3.07,30.74,30.74
+ROL,100M Plus,1000,100,100,3074.0,3.07,30.74,30.74
 ROL,100M,750,100,100,2427.4,3.24,24.27,24.27
 Ooredoo,100M,650,100,50,2171.94,3.34,21.72,43.44
 Dhiraagu,200M,950,200,75,3169.4,3.34,15.85,42.26
@@ -16,10 +16,10 @@ Ooredoo,35M,200,35,25,1111.94,5.56,31.77,44.48
 Ooredoo,25M,120,25,20,793.94,6.62,31.76,39.7
 Dhiraagu,15M Basic,100,15,15,731.4,7.31,48.76,48.76
 Dhiraagu,10M More,70,10,10,519.4,7.42,51.94,51.94
-Dhiraagu,10M Basic,55,10,10,424,7.71,42.4,42.4
+Dhiraagu,10M Basic,55,10,10,424.0,7.71,42.4,42.4
 ROL,12M,130,12,12,1005.94,7.74,83.83,83.83
 Ooredoo,15M,75,15,15,581.94,7.76,38.8,38.8
 ROL,10M,80,10,10,731.4,9.14,73.14,73.14
-Dhiraagu,5M,40,5,5,371,9.28,74.2,74.2
+Dhiraagu,5M,40,5,5,371.0,9.28,74.2,74.2
 ROL,6M,40,6,6,422.94,10.57,70.49,70.49
 Ooredoo,5M,30,5,5,369.94,12.33,73.99,73.99

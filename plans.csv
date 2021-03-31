@@ -1,4 +1,4 @@
-Provider,Name,Fair Usage,Download Speed,Upload Speed,Price Initial,GST,Price
+Provider,Name,Fair Usage (GB),Download Speed (Mbps),Upload Speed (Mbps),Price Initial,GST,Price
 Ooredoo,5M,30,5,5,349,0.06,369.94
 Ooredoo,15M,75,15,15,549,0.06,581.94
 Ooredoo,25M,120,25,20,749,0.06,793.94
