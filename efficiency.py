@@ -3,7 +3,7 @@
 import pandas
 
 df = pandas.read_csv("plans.csv")
-df = df.drop(df.columns[[5, 6]], axis=1)
+df = df.drop(df.columns[[6, 7]], axis=1)
 df["Price per GB"] = round(df["Price"] / df["Fair Usage (GB)"], 2)
 df = df.sort_values(by=["Price per GB"])
 df["Price per Mbps (Download)"] = round(df["Price"] / df["Download Speed (Mbps)"], 2)
