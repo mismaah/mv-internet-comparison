@@ -2,7 +2,7 @@
 
 import pandas
 
-df = pandas.read_csv("plans.csv")
+df = pandas.read_csv("packages.csv")
 df = df.drop(df.columns[[6, 7]], axis=1)
 df["Price per GB"] = (
     round(df["Price"] / df["Fair Usage (GB)"], 2) if df["Fair Usage (GB)"].any() else ""
